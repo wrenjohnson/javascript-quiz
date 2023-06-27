@@ -1,8 +1,8 @@
 :root{
     --btnBackground: #9cd0f6;
     --btnBackgroundHover: #4899cb;
-    --mainBackground: #a8a8a8;
-    --mainTextColor: #ffffff;
+    --mainBackground: #fffdfd;
+    --mainTextColor: #000000;
     --secondaryBackground: #4f545c;
 }
 
